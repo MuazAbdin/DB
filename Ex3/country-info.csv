@@ -1,0 +1,402 @@
+institution,region,countryabbrv
+AUEB,europe,gr
+University of Pisa,europe,it
+American University in Cairo,africa,eg
+Stellenbosch University,africa,za
+University of Cape Town,africa,za
+American University of Beirut,asia,lb
+BITS Pilani,asia,in
+BITS Pilani-Goa,asia,in
+BUET,asia,bd
+BUPT,asia,cn
+Beihang University,asia,cn
+CMI,asia,in
+Chinese Academy of Sciences,asia,cn
+Chinese University of Hong Kong,asia,hk
+Chulalongkorn University,asia,th
+City University of Hong Kong,asia,hk
+DAIICT,asia,in
+De La Salle University,asia,ph
+Fudan University,asia,cn
+HKUST,asia,hk
+HUST,asia,cn
+Hanyang University,asia,kr
+Harbin Institute of Technology,asia,cn
+Hong Kong Baptist University,asia,hk
+Hunan University,asia,cn
+IIIT Bangalore,asia,in
+IIIT Delhi,asia,in
+IIIT Hyderabad,asia,in
+IISc Bangalore,asia,in
+IIT (BHU) Varanasi,asia,in
+IIT Bhubaneswar,asia,in
+IIT Bombay,asia,in
+IIT Delhi,asia,in
+IIT Gandhinagar,asia,in
+IIT Goa,asia,in
+IIT Guwahati,asia,in
+IIT Hyderabad,asia,in
+IIT Indore,asia,in
+IIT Jodhpur,asia,in
+IIT Kanpur,asia,in
+IIT Kharagpur,asia,in
+IIT Madras,asia,in
+IIT Mandi,asia,in
+IIT Patna,asia,in
+IIT Roorkee,asia,in
+IIT Ropar,asia,in
+IMSc,asia,in
+IPM,asia,ir
+IUST,asia,ir
+JUST,asia,jo
+KAIST,asia,kr
+KAUST,asia,sa
+KMUTNB,asia,th
+Keio University,asia,jp
+King Abdulaziz University,asia,sa
+Korea University,asia,kr
+Kyoto University,asia,jp
+Kyung Hee University,asia,kr
+Kyungpook National University,asia,kr
+LUMS,asia,pk
+Lebanese American University,asia,lb
+MBZUAI,asia,ae
+Masdar Institute,asia,ae
+NWPU,asia,cn
+NYU Shanghai,asia,cn
+Nanjing University,asia,cn
+Nanyang Technological University,asia,sg
+National Cheng Kung University,asia,tw
+National Chiao Tung University,asia,tw
+National Institute of Technology Silchar,asia,in
+National Taiwan University,asia,tw
+National Tsing Hua University,asia,tw
+National University of Singapore,asia,sg
+Osaka University,asia,jp
+POSTECH,asia,kr
+Peking University,asia,cn
+Qatar Computing Research Institute,asia,qa
+Qatar University,asia,qa
+Renmin University of China,asia,cn
+SUFE,asia,cn
+SUSTech,asia,cn
+SUTD,asia,sg
+Seoul National University,asia,kr
+Shandong University,asia,cn
+Shanghai Jiao Tong University,asia,cn
+ShanghaiTech University,asia,cn
+Sharif University of Technology,asia,ir
+Shenzhen University,asia,cn
+Singapore Management University,asia,sg
+Soochow University,asia,cn
+Sun Yat-sen University,asia,cn
+Tata Inst. of Fundamental Research,asia,in
+Texas A&M at Qatar,asia,qa
+The Hong Kong Polytechnic University,asia,hk
+Tokyo Institute of Technology,asia,jp
+Tongji University,asia,cn
+Tsinghua University,asia,cn
+UESTC,asia,cn
+UNIST,asia,kr
+USTC,asia,cn
+University of Chinese Academy of Sciences,asia,cn
+University of Hong Kong,asia,hk
+University of Jordan,asia,jo
+University of Malaya,asia,my
+University of Tokyo,asia,jp
+University of Tsukuba,asia,jp
+Waseda University,asia,jp
+Westlake University,asia,cn
+Wuhan University,asia,cn
+Xi'an Jiaotong University,asia,cn
+Xidian University,asia,cn
+Yonsei University,asia,kr
+Zhejiang University,asia,cn
+Australian National University,australasia,au
+Macquarie University,australasia,au
+Massey University,australasia,nz
+Monash University,australasia,au
+Queensland University of Technology,australasia,au
+RMIT University,australasia,au
+UNSW,australasia,au
+University of Adelaide,australasia,au
+University of Auckland,australasia,nz
+University of Canterbury,australasia,nz
+University of Melbourne,australasia,au
+University of Newcastle,australasia,au
+University of Otago,australasia,nz
+University of Queensland,australasia,au
+University of Sydney,australasia,au
+University of Technology Sydney,australasia,au
+University of Waikato,australasia,nz
+University of Western Australia,australasia,au
+Victoria University of Wellington,australasia,nz
+Carleton University,canada,ca
+Concordia University,canada,ca
+Dalhousie University,canada,ca
+ETS Montreal,canada,ca
+HEC Montreal,canada,ca
+McGill University,canada,ca
+McMaster University,canada,ca
+Memorial University of Newfoundland,canada,ca
+Ontario Tech University,canada,ca
+Polytechnique Montreal,canada,ca
+Queen’s University,canada,ca
+Royal Military College of Canada,canada,ca
+Ryerson University,canada,ca
+Simon Fraser University,canada,ca
+University of Alberta,canada,ca
+University of British Columbia,canada,ca
+University of Calgary,canada,ca
+University of Guelph,canada,ca
+University of Manitoba,canada,ca
+University of Montreal,canada,ca
+University of New Brunswick,canada,ca
+University of Ottawa,canada,ca
+University of Regina,canada,ca
+University of Saskatchewan,canada,ca
+University of Toronto,canada,ca
+University of Victoria,canada,ca
+University of Waterloo,canada,ca
+University of Windsor,canada,ca
+Université Laval,canada,ca
+Université de Sherbrooke,canada,ca
+Western University,canada,ca
+York University,canada,ca
+Aalborg University,europe,dk
+Aalto University,europe,fi
+Aarhus University,europe,dk
+Aberystwyth University,europe,uk
+Ariel University,europe,il
+Babeș-Bolyai University,europe,ro
+Bar-Ilan University,europe,il
+Bauhaus University Weimar,europe,de
+Ben-Gurion University of the Negev,europe,il
+Bielefeld University,europe,de
+Bilkent University,europe,tr
+Birkbeck University of London,europe,uk
+Bocconi University,europe,it
+Boğaziçi University,europe,tr
+Brandenburg University of Technology,europe,de
+Brno University of Technology,europe,cz
+Brunel University London,europe,uk
+Bundeswehr University Munich,europe,de
+CISPA Helmholtz Center,europe,de
+CRIStAL,europe,fr
+CWI,europe,nl
+Cardiff University,europe,uk
+Chalmers/GU,europe,se
+Charles University,europe,cz
+City University of London,europe,uk
+Cyprus University of Technology,europe,cy
+Czech Technical University,europe,cz
+DTU,europe,dk
+Durham University,europe,uk
+EPFL,europe,ch
+ETH Zurich,europe,ch
+EURECOM,europe,fr
+Ecole Normale Superieure,europe,fr
+Ecole Normale Superieure de Cachan,europe,fr
+Ecole Normale Superieure de Lyon,europe,fr
+Ecole Normale Superieure de Rennes,europe,fr
+Freie Universitaet Berlin,europe,de
+Friedrich Schiller University Jena,europe,de
+Galatasaray University,europe,tr
+Goethe University Frankfurt,europe,de
+Goldsmiths University of London,europe,uk
+Graz University of Technology,europe,at
+HSE University,europe,ru
+Hacettepe University,europe,tr
+Hamburg University of Technology,europe,de
+Hasso Plattner Institute,europe,de
+Hebrew University of Jerusalem,europe,il
+Heidelberg University,europe,de
+Heriot-Watt University,europe,uk
+Humboldt University of Berlin,europe,de
+IMDEA Networks Institute,europe,es
+IMDEA Software Institute,europe,es
+IPI PAN,europe,pl
+IST Austria,europe,at
+IT University of Copenhagen,europe,dk
+Imperial College London,europe,uk
+Istanbul Technical University,europe,tr
+Izmir Institute of Technology,europe,tr
+JKU Linz,europe,at
+Jacobs University Bremen,europe,de
+KTH Royal Institute of Technology,europe,se
+KU Leuven,europe,be
+Karlsruhe Institute of Technology,europe,de
+King's College London,europe,uk
+Koç University,europe,tr
+LMU Munich,europe,de
+Lancaster University,europe,uk
+Leiden University,europe,nl
+Loughborough University,europe,uk
+Lund University,europe,se
+Maastricht University,europe,nl
+Masaryk University,europe,cz
+Max Planck Society,europe,de
+Middle East Technical University,europe,tr
+Middlesex University,europe,uk
+NTNU,europe,no
+NTUA,europe,gr
+Newcastle University,europe,uk
+Open University UK,europe,uk
+Paderborn University,europe,de
+Politecnico di Milano,europe,it
+Polytechnic University of Catalonia,europe,es
+Queen Mary University of London,europe,uk
+Queen's University Belfast,europe,uk
+RWTH Aachen,europe,de
+Radboud University,europe,nl
+Royal Holloway University of London,europe,uk
+Ruhr-University Bochum,europe,de
+Saarland University,europe,de
+Sabancı University,europe,tr
+Sapienza University of Rome,europe,it
+Scuola Superiore Sant'Anna,europe,it
+Simula UiB,europe,no
+TU Berlin,europe,de
+TU Braunschweig,europe,de
+TU Chemnitz,europe,de
+TU Clausthal,europe,de
+TU Crete,europe,gr
+TU Darmstadt,europe,de
+TU Delft,europe,nl
+TU Dortmund,europe,de
+TU Dresden,europe,de
+TU Eindhoven,europe,nl
+TU Freiberg,europe,de
+TU Ilmenau,europe,de
+TU Kaiserslautern,europe,de
+TU Munich,europe,de
+TU Wien,europe,at
+Technion,europe,il
+Tel Aviv University,europe,il
+Tilburg University,europe,nl
+Universidad Rey Juan Carlos,europe,es
+Universidad de Zaragoza,europe,es
+Universidade NOVA de Lisboa,europe,pt
+Universidade de Lisboa,europe,pt
+University College Dublin,europe,ie
+University College London,europe,uk
+University of A Coruña,europe,es
+University of Aberdeen,europe,uk
+University of Amsterdam,europe,nl
+University of Athens,europe,gr
+University of Augsburg,europe,de
+University of Bamberg,europe,de
+University of Bath,europe,uk
+University of Bayreuth,europe,de
+University of Bergen,europe,no
+University of Bern,europe,ch
+University of Birmingham,europe,uk
+University of Bonn,europe,de
+University of Bremen,europe,de
+University of Bristol,europe,uk
+University of Cambridge,europe,uk
+University of Copenhagen,europe,dk
+University of Crete,europe,gr
+University of Duisburg-Essen,europe,de
+University of Dundee,europe,uk
+University of Düsseldorf,europe,de
+University of Edinburgh,europe,uk
+University of Erlangen–Nuremberg,europe,de
+University of Essex,europe,uk
+University of Exeter,europe,uk
+University of Freiburg,europe,de
+University of Glasgow,europe,uk
+University of Groningen,europe,nl
+University of Göttingen,europe,de
+University of Haifa,europe,il
+University of Halle-Wittenberg,europe,de
+University of Hamburg,europe,de
+University of Hannover,europe,de
+University of Helsinki,europe,fi
+University of Hildesheim,europe,de
+University of Innsbruck,europe,at
+University of Ioannina,europe,gr
+University of Kassel,europe,de
+University of Kent,europe,uk
+University of Kiel,europe,de
+University of Klagenfurt,europe,at
+University of Koblenz-Landau,europe,de
+University of Konstanz,europe,de
+University of L'Aquila,europe,it
+University of Leeds,europe,uk
+University of Leipzig,europe,de
+University of Liverpool,europe,uk
+University of Luxembourg,europe,lu
+University of Lübeck,europe,de
+University of Magdeburg,europe,de
+University of Mainz,europe,de
+University of Malta,europe,mt
+University of Manchester,europe,uk
+University of Mannheim,europe,de
+University of Marburg,europe,de
+University of Molise,europe,it
+University of Murcia,europe,es
+University of Münster,europe,de
+University of Nicosia,europe,cy
+University of Nottingham,europe,uk
+University of Oldenburg,europe,de
+University of Osnabrück,europe,de
+University of Oxford,europe,uk
+University of Passau,europe,de
+University of Piraeus,europe,gr
+University of Potsdam,europe,de
+University of Rostock,europe,de
+University of Salerno,europe,it
+University of Salzburg,europe,at
+University of Sannio,europe,it
+University of Sheffield,europe,uk
+University of Siegen,europe,de
+University of Southampton,europe,uk
+University of St Andrews,europe,uk
+University of Stuttgart,europe,de
+University of Surrey,europe,uk
+University of Sussex,europe,uk
+University of Szeged,europe,hu
+University of Tartu,europe,ee
+University of Trento,europe,it
+University of Trier,europe,de
+University of Twente,europe,nl
+University of Tübingen,europe,de
+University of Ulm,europe,de
+University of Vienna,europe,at
+University of Warsaw,europe,pl
+University of Warwick,europe,uk
+University of Wroclaw,europe,pl
+University of Wuppertal,europe,de
+University of Würzburg,europe,de
+University of York,europe,uk
+University of Zurich,europe,ch
+Università della Svizzera italiana,europe,ch
+Université Jean Monnet,europe,fr
+Université libre de Bruxelles,europe,be
+Uppsala University,europe,se
+Utrecht University,europe,nl
+VU Amsterdam,europe,nl
+Weizmann Institute of Science,europe,il
+Yıldız Technical University,europe,tr
+Özyeğin University,europe,tr
+Federal University of Rio Grande,southamerica,br
+PUC-RIO,southamerica,br
+PUC-RS,southamerica,br
+UFF,southamerica,br
+UFMG,southamerica,br
+UFMS,southamerica,br
+UFPE,southamerica,br
+UFPR,southamerica,br
+UFRGS,southamerica,br
+UFRJ,southamerica,br
+UFU,southamerica,br
+UNICAMP,southamerica,br
+USP,southamerica,br
+USP-ICMC,southamerica,br
+Universidad Nacional de Córdoba,southamerica,ar
+Universidad de Chile,southamerica,cl
+Universidad de los Andes,southamerica,co
+Universidade Federal de Viçosa,southamerica,br
+Universidade de Brasília,southamerica,br
+University of Buenos Aires,southamerica,ar

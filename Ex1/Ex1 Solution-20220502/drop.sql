@@ -1,0 +1,28 @@
+DROP TABLE IF EXISTS won CASCADE;
+
+DROP TABLE IF EXISTS belongs_to CASCADE;
+
+DROP TABLE IF EXISTS acted_by CASCADE;
+
+DROP TABLE IF EXISTS written_by CASCADE;
+
+DROP TABLE IF EXISTS directed_by CASCADE;
+
+DROP TABLE IF EXISTS film CASCADE;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

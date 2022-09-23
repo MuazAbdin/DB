@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS authors CASCADE;
+
+DROP TABLE IF EXISTS conferences CASCADE;
+
+DROP TABLE IF EXISTS institutions CASCADE;
+
+
+
+
+
